@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashwanth-kotha
-- 👀 I’m interested in Machine learning, Full stack, and travelling
-- 🌱 I’m currently learning Kubernetes, and ML
-- 💞️ I’m looking to collaborate on Machine learning applications
+- 👀 I’m interested in Machine learning, research, hardware optimization and travelling
+- 🌱 I’m currently learning Kubernetes, and Machine Learning
+- 💞️ I’m looking to collaborate on Machine learning research
 - 📫 How to reach me at yashk10101@gmail.com 
 
 <!---
