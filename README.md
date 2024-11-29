@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashwanth-kotha
+- 👋 Hi, I’m @yashwanth-kotha. Most people call me Yash
 - 👀 I’m interested in Machine learning, research, hardware optimization and travelling
 - 🌱 I’m currently learning Kubernetes, and Machine Learning
 - 💞️ I’m looking to collaborate on Machine learning research
